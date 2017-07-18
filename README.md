@@ -1,2 +1,2 @@
 # RBemutato
-Az R statisztikai programozási környezet rövid bemutatása
+Az R statisztikai programozási környezet rövid bemutatása.
